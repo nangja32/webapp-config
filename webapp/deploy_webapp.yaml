@@ -14,5 +14,5 @@ spec:
         app: webapp
     spec:
       containers:
-        - image: nangja32/webapp:20260417052158_4
+        - image: nangja32/webapp:20260417052648_5
           name: webapp-container
